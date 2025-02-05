@@ -11,7 +11,7 @@ This browser extension solves that problem by enabling full conversation printin
 
 A simple Windows Edge/Chrome browser extension to print the entire chat conversation.
 
-[For iOS and macOS version](https://github.com/babadue/PrintChatExt-Apple) <br>
+[For Safari - iOS and macOS version](https://github.com/babadue/PrintChatExtensionSafari) <br>
 
 ## Contributors 
 
